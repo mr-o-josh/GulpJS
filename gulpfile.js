@@ -6,7 +6,7 @@
 
 
 /**
-* author: Exfac
+* author: OTechCup
 * copyright: Copyright 2023 - new Date().getFullYear(), Exfac Inc.
 * credits: ["Mr. O"]
 * version: process.env.GULPJS_BOILERPLATE_VERSION
